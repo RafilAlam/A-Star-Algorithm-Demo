@@ -5,7 +5,10 @@
 ---
 
 ## 🎥 Demo  
-_Coming soon: Live browser-based demo_
+
+
+https://github.com/user-attachments/assets/4d2a3ef2-a229-4431-89a3-343580be8c8c
+
 
 ---
 
