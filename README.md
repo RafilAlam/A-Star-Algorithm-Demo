@@ -1,6 +1,6 @@
 # 🌐 A* Pathfinding Demo  
 🧭 **Watch Pathfinding Work its magic in Real Time**  
-> A visual and interactive implementation of the **A\*** algorithm built from scratch using **Python**, this tool demonstrates how A\* navigates grids to find the most efficient route between two points, taking obstacles and heuristics into account.
+> A visual and interactive implementation of the **A\*** algorithm built from scratch using **Python**. This tool demonstrates how A\* navigates grids to find the most efficient route between two points, taking obstacles and heuristics into account.
 
 ---
 
